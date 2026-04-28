@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student | Python Developer | Building Web Apps & Learning DSA</h3>
 
 ###
-<h3 align="left">About me </h3>
+<h3 align="left">About me </h3> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" align="right"/>
 <p align="left">💻 CSE Student passionate about building real-world projects </p>
 <p align="left">📚 Currently learning Machine Learning & Data Structures </p>
 <p align="left">⚡ Exploring Python, Web Development & Streamlit </p>
@@ -50,12 +50,8 @@
 </div>
 
 ###
-<div align="left">
-  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-
-<!-- 👇 ADDED GIF IMAGE SECTION -->
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+</picture>
